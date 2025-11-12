@@ -142,7 +142,7 @@ nav {
 }
 
 .header__container h1 {
-  padding-top: 5rem;
+  margin-top: 3rem;
   margin-bottom: 2rem;
   font-size: 3.5rem;
   font-weight: 600;
@@ -563,7 +563,7 @@ footer {
   }
 
   .header__container h1 {
-    padding-top: 5rem;
+    margin-top: 3rem;
     max-width: 600px;
     text-align: left;
   }
@@ -601,5 +601,6 @@ footer {
   }
 
 }
+
 
 
