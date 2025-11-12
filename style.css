@@ -563,6 +563,7 @@ footer {
   }
 
   .header__container h1 {
+    padding-top: 3rem;
     max-width: 600px;
     text-align: left;
   }
@@ -600,3 +601,4 @@ footer {
   }
 
 }
+
