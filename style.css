@@ -539,10 +539,10 @@ min-height: 250px;
 
 
 
-.footer {
+footer {
   background-color: #3a583a !important;
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 2.5rem 1rem;
 }
 
 .footer__container {
@@ -689,6 +689,7 @@ min-height: 250px;
   }
 
 }
+
 
 
 
