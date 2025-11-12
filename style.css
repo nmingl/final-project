@@ -142,6 +142,7 @@ nav {
 }
 
 .header__container h1 {
+  padding-top: 2rem;
   margin-bottom: 2rem;
   font-size: 3.5rem;
   font-weight: 600;
@@ -597,4 +598,5 @@ footer {
   .menu__card__content {
     padding: 1.5rem;
   }
+
 }
