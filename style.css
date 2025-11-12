@@ -541,6 +541,7 @@ min-height: 250px;
 
 footer {
   background-color: #3a583a !important;
+  color: var(--white));
   text-align: center;
   padding: 2.5rem 1rem;
 }
@@ -576,7 +577,6 @@ footer {
 .footer__bar {
   margin-top: 1rem;
   font-size: 1rem;
-  color: var(--white);
 }
 
 
@@ -689,6 +689,7 @@ footer {
   }
 
 }
+
 
 
 
